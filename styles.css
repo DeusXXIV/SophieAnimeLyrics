@@ -1,18 +1,18 @@
 /* styles.css */
 
+/* Ensure full viewport height */
+html, body {
+  height: 100%;
+  margin: 0;
+}
+
 /* General body styling */
 body {
   background-color: #f8f9fa;
   font-family: 'Segoe UI', sans-serif;
 }
 
-/* Styling for the hero section */
+/* Optional: additional customization for the hero section */
 .hero {
   background: linear-gradient(to right, #6a11cb, #2575fc);
-}
-
-/* Bootstrap card customizations if needed */
-.card {
-  border: none;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
