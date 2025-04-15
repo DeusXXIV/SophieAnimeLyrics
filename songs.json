@@ -1,0 +1,453 @@
+[
+    {
+      "animeTitle": "Apothecary Diaries Season 2",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Hyakka Ryouran",
+      "artist": "Lilas Ikuta",
+      "excerpt": "Feel the surge of bravery with this inspiring new lyric that brings heroes to life.",
+      "link": "lyric-pages/hyakka-ryouran.html"
+    },
+    {
+      "animeTitle": "Attack on Titan",
+      "songType": "Anthem",
+      "number": null,
+      "songName": "Anthem",
+      "artist": "Unknown Artist",
+      "excerpt": "Discover the power and intensity in the struggle for freedom.",
+      "link": "lyric-pages/attack-on-titan-anthem.html"
+    },
+    {
+      "animeTitle": "Naruto",
+      "songType": "Opening",
+      "number": 2,
+      "songName": "Naruto Opening 2",
+      "artist": "Unknown Artist",
+      "excerpt": "Experience the energy and emotion that captures the spirit of the anime.",
+      "link": "lyric-pages/naruto-opening2.html"
+    },
+    {
+      "animeTitle": "Fire Force Season 3",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Tsuyobi",
+      "artist": "QUEEN BEE",
+      "excerpt": "Feel the surge of bravery with this inspiring new lyric that brings heroes to life.",
+      "link": "lyric-pages/tsuyobi.html"
+    },
+    {
+      "animeTitle": "Jujutsu Kaisen Season 2",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Rise of Curses",
+      "artist": "MYTH & ROAR",
+      "excerpt": "An electrifying beginning that sets the stage for epic battles.",
+      "link": "lyric-pages/jujutsu-kaisen-s2-opening1.html"
+    },
+    {
+      "animeTitle": "Jujutsu Kaisen Season 2",
+      "songType": "Ending",
+      "number": 1,
+      "songName": "Silent Echo",
+      "artist": "Cerulean Shift",
+      "excerpt": "A haunting melody that lingers long after the credits.",
+      "link": "lyric-pages/jujutsu-kaisen-s2-ending1.html"
+    },
+    {
+      "animeTitle": "Spy x Family Season 2",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Code of Family",
+      "artist": "Spies United",
+      "excerpt": "A high-energy theme that captures the thrill of espionage and heartwarming moments.",
+      "link": "lyric-pages/spyxfamily-s2-opening1.html"
+    },
+    {
+      "animeTitle": "Spy x Family Season 2",
+      "songType": "Ending",
+      "number": 1,
+      "songName": "Whispering Secrets",
+      "artist": "Family Harmony",
+      "excerpt": "A gentle tune that reflects the delicate balance of trust and mystery.",
+      "link": "lyric-pages/spyxfamily-s2-ending1.html"
+    },
+    {
+      "animeTitle": "Chainsaw Man Season 2",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Blood Chains",
+      "artist": "Blaze Riot",
+      "excerpt": "A fierce and adrenaline-pumping track that roars with raw energy.",
+      "link": "lyric-pages/chainsawman-s2-opening1.html"
+    },
+    {
+      "animeTitle": "Chainsaw Man Season 2",
+      "songType": "Ending",
+      "number": 1,
+      "songName": "Fading Scream",
+      "artist": "Midnight Howl",
+      "excerpt": "A somber melody that echoes the pain and resilience of its characters.",
+      "link": "lyric-pages/chainsawman-s2-ending1.html"
+    },
+    {
+      "animeTitle": "Tokyo Revengers: Rebirth",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Back in Time",
+      "artist": "The Phoenix Reborn",
+      "excerpt": "An inspiring anthem that recalls the struggles and hopes of a new era.",
+      "link": "lyric-pages/tokyorevengers-rebirth-opening1.html"
+    },
+    {
+      "animeTitle": "Tokyo Revengers: Rebirth",
+      "songType": "Ending",
+      "number": 1,
+      "songName": "Lost Days",
+      "artist": "Urban Solitude",
+      "excerpt": "A reflective tune that captures the bittersweet memories of bygone days.",
+      "link": "lyric-pages/tokyorevengers-rebirth-ending1.html"
+    },
+    {
+      "animeTitle": "My Hero Academia Season 6",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Hero's Ascend",
+      "artist": "Rise Collective",
+      "excerpt": "A powerful and uplifting song that celebrates the rise of new heroes.",
+      "link": "lyric-pages/mha-s6-opening1.html"
+    },
+    {
+      "animeTitle": "My Hero Academia Season 6",
+      "songType": "Ending",
+      "number": 1,
+      "songName": "Quiet Resolve",
+      "artist": "Echo of Dreams",
+      "excerpt": "A calm and determined melody, embodying the inner strength of its heroes.",
+      "link": "lyric-pages/mha-s6-ending1.html"
+    },
+    {
+      "animeTitle": "Demon Slayer: Kimetsu no Yaiba Season 2",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Flame of Resilience",
+      "artist": "LiSA",
+      "excerpt": "A blazing theme that ignites the spirit and determination of fighters.",
+      "link": "lyric-pages/demon-slayer-s2-opening1.html"
+    },
+    {
+      "animeTitle": "Demon Slayer: Kimetsu no Yaiba Season 2",
+      "songType": "Ending",
+      "number": 1,
+      "songName": "Restoration",
+      "artist": "Aimer",
+      "excerpt": "A soothing ballad that reflects inner strength and healing.",
+      "link": "lyric-pages/demon-slayer-s2-ending1.html"
+    },
+    {
+      "animeTitle": "Black Clover Season 4",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Magical Spirit",
+      "artist": "Unknown Artist",
+      "excerpt": "A theme bursting with magical energy and determination.",
+      "link": "lyric-pages/black-clover-s4-opening1.html"
+    },
+    {
+      "animeTitle": "Black Clover Season 4",
+      "songType": "Ending",
+      "number": 1,
+      "songName": "Fading Magic",
+      "artist": "Unknown Artist",
+      "excerpt": "A reflective piece capturing the bittersweet end of a vibrant journey.",
+      "link": "lyric-pages/black-clover-s4-ending1.html"
+    },
+    {
+      "animeTitle": "My Hero Academia Season 7",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Beyond Limits",
+      "artist": "Rise Collective",
+      "excerpt": "An anthem for heroes pushing past their boundaries.",
+      "link": "lyric-pages/mha-s7-opening1.html"
+    },
+    {
+      "animeTitle": "My Hero Academia Season 7",
+      "songType": "Ending",
+      "number": 1,
+      "songName": "Echoes of Tomorrow",
+      "artist": "Echo of Dreams",
+      "excerpt": "A lyrical journey reflecting the hopes and dreams of a new generation.",
+      "link": "lyric-pages/mha-s7-ending1.html"
+    },
+    {
+      "animeTitle": "One Piece",
+      "songType": "Opening",
+      "number": 15,
+      "songName": "We Go!",
+      "artist": "Unknown Artist",
+      "excerpt": "A spirited call to adventure that captures the essence of the Grand Line.",
+      "link": "lyric-pages/one-piece-opening15.html"
+    },
+    {
+      "animeTitle": "Boruto: Naruto Next Generations",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Next Horizon",
+      "artist": "Unknown Artist",
+      "excerpt": "A futuristic anthem for a new generation of ninjas.",
+      "link": "lyric-pages/boruto-opening1.html"
+    },
+    {
+      "animeTitle": "Boruto: Naruto Next Generations",
+      "songType": "Ending",
+      "number": 1,
+      "songName": "New Journey",
+      "artist": "Unknown Artist",
+      "excerpt": "A gentle farewell tune marking the beginning of a new chapter.",
+      "link": "lyric-pages/boruto-ending1.html"
+    },
+    {
+      "animeTitle": "That Time I Got Reincarnated as a Slime",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Rise Above",
+      "artist": "Unknown Artist",
+      "excerpt": "A soaring theme that inspires transformation and hope.",
+      "link": "lyric-pages/slime-opening1.html"
+    },
+    {
+      "animeTitle": "That Time I Got Reincarnated as a Slime",
+      "songType": "Ending",
+      "number": 1,
+      "songName": "Slime Time",
+      "artist": "Unknown Artist",
+      "excerpt": "A catchy tune that celebrates life in a new world.",
+      "link": "lyric-pages/slime-ending1.html"
+    },
+    {
+      "animeTitle": "Re:Zero – Starting Life in Another World",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Reboot",
+      "artist": "Unknown Artist",
+      "excerpt": "A stirring opening that signals new beginnings and challenges.",
+      "link": "lyric-pages/rezero-opening1.html"
+    },
+    {
+      "animeTitle": "Re:Zero – Starting Life in Another World",
+      "songType": "Ending",
+      "number": 1,
+      "songName": "Hope",
+      "artist": "Unknown Artist",
+      "excerpt": "A gentle melody that embodies hope amidst despair.",
+      "link": "lyric-pages/rezero-ending1.html"
+    },
+    {
+      "animeTitle": "Sword Art Online Alternative: Gun Gale Online",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Bullet Dance",
+      "artist": "Unknown Artist",
+      "excerpt": "A rapid-fire beat that propels you into a world of virtual battles.",
+      "link": "lyric-pages/sao-alternative-opening1.html"
+    },
+    {
+      "animeTitle": "Sword Art Online Alternative: Gun Gale Online",
+      "songType": "Ending",
+      "number": 1,
+      "songName": "Virtual Heart",
+      "artist": "Unknown Artist",
+      "excerpt": "A tender piece that reflects the digital longing of its players.",
+      "link": "lyric-pages/sao-alternative-ending1.html"
+    },
+    {
+      "animeTitle": "The Rising of the Shield Hero",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Shield of Destiny",
+      "artist": "Unknown Artist",
+      "excerpt": "A stirring anthem symbolizing perseverance and responsibility.",
+      "link": "lyric-pages/shield-hero-opening1.html"
+    },
+    {
+      "animeTitle": "The Rising of the Shield Hero",
+      "songType": "Ending",
+      "number": 1,
+      "songName": "Bound By Fate",
+      "artist": "Unknown Artist",
+      "excerpt": "A melancholic tune that mirrors the hero's challenging journey.",
+      "link": "lyric-pages/shield-hero-ending1.html"
+    },
+    {
+      "animeTitle": "Overlord Season 4",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Dark Ascension",
+      "artist": "Unknown Artist",
+      "excerpt": "A dark and energetic tune that heralds the rise of a new power.",
+      "link": "lyric-pages/overlord-s4-opening1.html"
+    },
+    {
+      "animeTitle": "Overlord Season 4",
+      "songType": "Ending",
+      "number": 1,
+      "songName": "Eternal Slumber",
+      "artist": "Unknown Artist",
+      "excerpt": "A somber and beautiful piece that reflects on the passage of time.",
+      "link": "lyric-pages/overlord-s4-ending1.html"
+    },
+    {
+      "animeTitle": "Kaguya-sama: Love Is War",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Battle of Wits",
+      "artist": "Unknown Artist",
+      "excerpt": "A clever and upbeat tune setting the stage for love and strategy.",
+      "link": "lyric-pages/kaguya-love-is-war-opening1.html"
+    },
+    {
+      "animeTitle": "Kaguya-sama: Love Is War",
+      "songType": "Ending",
+      "number": 1,
+      "songName": "Heart's Retreat",
+      "artist": "Unknown Artist",
+      "excerpt": "A soft, reflective melody that complements the battle of hearts.",
+      "link": "lyric-pages/kaguya-love-is-war-ending1.html"
+    },
+    {
+      "animeTitle": "Mob Psycho 100 III",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Psychic Surge",
+      "artist": "Unknown Artist",
+      "excerpt": "An electrifying start to a journey through the extraordinary.",
+      "link": "lyric-pages/mob-psycho-100-iii-opening1.html"
+    },
+    {
+      "animeTitle": "Mob Psycho 100 III",
+      "songType": "Ending",
+      "number": 1,
+      "songName": "Calm After the Storm",
+      "artist": "Unknown Artist",
+      "excerpt": "A gentle, soothing melody that calms the chaos of emotions.",
+      "link": "lyric-pages/mob-psycho-100-iii-ending1.html"
+    },
+    {
+      "animeTitle": "Dr. Stone: New World",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Scientific Miracle",
+      "artist": "Unknown Artist",
+      "excerpt": "A theme that blends wonder with the power of discovery.",
+      "link": "lyric-pages/dr-stone-new-world-opening1.html"
+    },
+    {
+      "animeTitle": "Dr. Stone: New World",
+      "songType": "Ending",
+      "number": 1,
+      "songName": "Stoneheart",
+      "artist": "Unknown Artist",
+      "excerpt": "A reflective piece that captures the spirit of perseverance.",
+      "link": "lyric-pages/dr-stone-new-world-ending1.html"
+    },
+    {
+      "animeTitle": "The Promised Neverland Season 2",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Escape Plan",
+      "artist": "Unknown Artist",
+      "excerpt": "An urgent and stirring track that propels you into a world of secrets.",
+      "link": "lyric-pages/the-promised-neverland-s2-opening1.html"
+    },
+    {
+      "animeTitle": "The Promised Neverland Season 2",
+      "songType": "Ending",
+      "number": 1,
+      "songName": "Memory's Echo",
+      "artist": "Unknown Artist",
+      "excerpt": "A heartfelt melody capturing the longing for a lost past.",
+      "link": "lyric-pages/the-promised-neverland-s2-ending1.html"
+    },
+    {
+      "animeTitle": "Vinland Saga Season 2",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Saga of the Brave",
+      "artist": "Unknown Artist",
+      "excerpt": "A grand, epic tune that narrates the timeless saga of warriors.",
+      "link": "lyric-pages/vinland-saga-s2-opening1.html"
+    },
+    {
+      "animeTitle": "Vinland Saga Season 2",
+      "songType": "Ending",
+      "number": 1,
+      "songName": "Wind of Destiny",
+      "artist": "Unknown Artist",
+      "excerpt": "A reflective tune that captures the ever-changing winds of fate.",
+      "link": "lyric-pages/vinland-saga-s2-ending1.html"
+    },
+    {
+      "animeTitle": "Log Horizon: Destruction of the Round Table",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Virtual Kingdom",
+      "artist": "Unknown Artist",
+      "excerpt": "A futuristic anthem that beckons you into the virtual realm.",
+      "link": "lyric-pages/log-horizon-destruction-opening1.html"
+    },
+    {
+      "animeTitle": "Log Horizon: Destruction of the Round Table",
+      "songType": "Ending",
+      "number": 1,
+      "songName": "Digital Dreams",
+      "artist": "Unknown Artist",
+      "excerpt": "A soft and surreal tune that captures the essence of a digital utopia.",
+      "link": "lyric-pages/log-horizon-destruction-ending1.html"
+    },
+    {
+      "animeTitle": "Dr. Stone: Stone Wars",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Clash of Minds",
+      "artist": "Unknown Artist",
+      "excerpt": "An explosive theme that sparks the battle of intellects.",
+      "link": "lyric-pages/dr-stone-stone-wars-opening1.html"
+    },
+    {
+      "animeTitle": "Dr. Stone: Stone Wars",
+      "songType": "Ending",
+      "number": 1,
+      "songName": "Future Echo",
+      "artist": "Unknown Artist",
+      "excerpt": "A reflective melody pondering the echoes of tomorrow.",
+      "link": "lyric-pages/dr-stone-stone-wars-ending1.html"
+    },
+    {
+      "animeTitle": "Seraph of the End",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Wings of the Fallen",
+      "artist": "Unknown Artist",
+      "excerpt": "A dramatic theme that soars with passion and tragedy.",
+      "link": "lyric-pages/seraph-of-the-end-opening1.html"
+    },
+    {
+      "animeTitle": "Seraph of the End",
+      "songType": "Ending",
+      "number": 1,
+      "songName": "Shadow of Despair",
+      "artist": "Unknown Artist",
+      "excerpt": "A deep, melancholic tune capturing the weight of fate.",
+      "link": "lyric-pages/seraph-of-the-end-ending1.html"
+    },
+    {
+      "animeTitle": "Blue Exorcist",
+      "songType": "Opening",
+      "number": 1,
+      "songName": "Blaze of Faith",
+      "artist": "Unknown Artist",
+      "excerpt": "A fiery anthem that ignites the soul with unwavering passion.",
+      "link": "lyric-pages/blue-exorcist-opening1.html"
+    }
+  ]
+  

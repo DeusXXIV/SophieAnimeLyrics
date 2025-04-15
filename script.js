@@ -1,17 +1,17 @@
 // script.js
 
-// Updated songs data with separate fields
-const songs = [
-  {
-    animeTitle: "Apothecary Diaries Season 2",
-    songType: "Opening",
-    number: 1,
-    songName: "Hyakka Ryouran",
-    artist: "Lilas Ikuta", 
-    excerpt: "Feel the surge of bravery with this inspiring new lyric that brings heroes to life.",
-    link: "lyric-pages/hyakka-ryouran.html" // Adjust file link
-  },
-];
+// Initialize an empty songs variable
+let songs = [];
+
+// Fetch song data from the JSON file
+fetch('songs.json')
+  .then(response => response.json())
+  .then(data => {
+    songs = data;
+    // Render all songs once the data is loaded
+    renderSongs(songs);
+  })
+  .catch(error => console.error('Error fetching songs data:', error));
 
 // Function to render the songs into the DOM
 function renderSongs(songList) {
@@ -51,7 +51,7 @@ function renderSongs(songList) {
   });
 }
 
-// Function to filter songs based on the search query (searching within animeTitle, songName, or artist)
+// Function to filter songs based on the search query
 function filterSongs(query) {
   return songs.filter(song => 
     song.animeTitle.toLowerCase().includes(query.toLowerCase()) ||
@@ -60,17 +60,12 @@ function filterSongs(query) {
   );
 }
 
-// Initial rendering of all songs
-renderSongs(songs);
-
-// Set up event listeners for search functionality
+// Set up search functionality
 document.getElementById('searchInput').addEventListener('keyup', function () {
   const query = this.value;
   const filteredSongs = filterSongs(query);
   renderSongs(filteredSongs);
 });
-
-// Optional: Click handler for the search button (filters on click as well)
 document.getElementById('searchButton').addEventListener('click', function () {
   const query = document.getElementById('searchInput').value;
   const filteredSongs = filterSongs(query);
