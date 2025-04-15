@@ -7,7 +7,7 @@ const songs = [
     songType: "Opening",
     number: 1,
     songName: "Hyakka Ryouran",
-    artist: "Unknown Artist", // Update as needed
+    artist: "Lilas Ikuta", 
     excerpt: "Feel the surge of bravery with this inspiring new lyric that brings heroes to life.",
     link: "lyric-pages/hyakka-ryouran.html" // Adjust file link
   },
